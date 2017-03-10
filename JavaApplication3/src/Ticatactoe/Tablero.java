@@ -9,6 +9,19 @@ package Ticatactoe;
  *
  * @author Estudiantes
  */
-public class Jugar {
+public class Tablero {
+
+    /**
+     *
+     */
+    public char [][]fichas= new char [3][3];
+        
+    
+    public Tablero() {
+     
+    }
+
+ 
+    
     
 }
